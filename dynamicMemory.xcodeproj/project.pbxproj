@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8CCEBCF22B07969B008E005D /* dynamicMemory */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dynamicMemory; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CCEBCF52B07969B008E005D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8CCEBCFC2B0796BF008E005D /* dynamicMemory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dynamicMemory.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8CCEBCF52B07969B008E005D /* main.cpp */,
+				8CCEBCFC2B0796BF008E005D /* dynamicMemory.h */,
 			);
 			path = dynamicMemory;
 			sourceTree = "<group>";
